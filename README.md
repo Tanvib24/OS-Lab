@@ -60,8 +60,8 @@ To run the code examples in this repository, follow these steps:
    git clone https://github.com/your-username/os-lab-practicals.git
 
 
-Name: Tanvi Bandebuche
-PRN: 23070521223
-College Name: Symbiosis Institute of Technology, Nagpur
-Branch: B.Tech. Computer Science and Engineering
-Academic Year: 2024–2025
+### Name: Tanvi Bandebuche
+### PRN: 23070521223
+### College Name: Symbiosis Institute of Technology, Nagpur
+### Branch: B.Tech. Computer Science and Engineering
+### Academic Year: 2024–2025
