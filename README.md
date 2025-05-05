@@ -58,3 +58,10 @@ To run the code examples in this repository, follow these steps:
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/your-username/os-lab-practicals.git
+
+
+Name: Tanvi Bandebuche
+PRN: 23070521223
+College Name: Symbiosis Institute of Technology, Nagpur
+Branch: B.Tech. Computer Science and Engineering
+Academic Year: 2024–2025
